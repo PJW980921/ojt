@@ -1,8 +1,10 @@
-# 수강명 : 프론트엔드 개발 올인원 패키지 with React Online (Part 1 주요 학습 내용)
+# 수강 명 : 프론트엔드 개발 올인원 패키지 with React Online
+
+> (Part 1 주요 학습 내용)
 
 ## 03. 웹 표준과 웹 접근성
 
-**웹 표준(Web Standard)**이란 '웹에서 사용되는 표준 기술이나 규칙'을 의미하고 W3C(World Wide Web Consortium)의 권고안에서 나온 기술들이 해당합니다.
+**웹 표준(Web Standard)** 이란 '웹에서 사용되는 표준 기술이나 규칙'을 의미하고 W3C(World Wide Web Consortium)의 권고안에서 나온 기술들이 해당합니다.
 웹 개발에서 사용하는 표준 기술은 대표적으로 HTML, CSS, JS, React 등이 있습니다.
 
 HTML, CSS, JavaScript는 W3C와 ECMA라는 단체에서 정한 국제 웹표준입니다.
